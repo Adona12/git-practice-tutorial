@@ -2,7 +2,11 @@ Abdulaziz Ali
 Abel Mekonen
 Adona Tesfaye
 <<<<<<< HEAD
+<<<<<<< HEAD
 Joshua Tesfaye
+=======
+Amha Kindu
+>>>>>>> 164aaf0 (update name.txt)
 Rediet Demisse
 Yisehak Bogale
 Amha Kindu
