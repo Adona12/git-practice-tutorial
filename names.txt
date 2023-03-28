@@ -1,6 +1,7 @@
 Abdulaziz Ali
 Abel Mekonen
 Adona Tesfaye
+Bisrat Walle
 Joshua Tesfaye
 Rediet Demisse
 Yisehak Bogale
@@ -18,8 +19,6 @@ Rediet Demisse
 Tigist Wondimneh
 Yisehak Bogale
 Blen Assefa
-Bisrat Walle
-Yared Tsegaye
 
 
 
@@ -31,3 +30,4 @@ Yared Tsegaye
 
 
 Samuel Abatneh
+Yared Tsegaye
