@@ -4,11 +4,13 @@ Abraham Shimekt
 Adona Tesfaye
 Amha Kindu
 Biruk Tassew
+Bereket Demisse
 Bruk Tedla
 Betelhem shewarega
 Dagmawi Yesuf
 Dawit Teshager
 Duressa Jemal
+Ekram Kedir
 Ephrem Alemayehu
 Feruz Ahmed 
 Feven Belay
@@ -18,12 +20,14 @@ Hiwot Derese
 Jeal Sabir
 Joshua Tesfaye
 Kaleab Kindu
+Kidus Abebe
 Mekdes Kebede
 Rediet Demisse
 Samuel Abatneh
 Samuel Kifle
 Sefineh Tesfa 
 Seid Muhammed
+Simon Mekonnen
 Sosna Worku
 Tewodros Alemu
 Tigist Wondimneh
@@ -31,5 +35,7 @@ Yared Tegegn
 Yeabsira Tekuamwork
 Yisehak Bogale
 Yonas Gebre
+Zalbowossn Gizaw
 Zelalem Yetsedaw
 Zerihun Moges
+Zerabruck Muluneh
