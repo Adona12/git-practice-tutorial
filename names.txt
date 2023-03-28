@@ -31,5 +31,8 @@ Yisehak Bogale
 Yonas Gebre
 Zelalem Yetsedaw
 Zerihun Moges
+<<<<<<< HEAD
 Zerihun Moges
+=======
+>>>>>>> 9aba66e (Insert myname)
 Yisehak Bogale
