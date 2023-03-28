@@ -48,6 +48,9 @@ Zerabruck Muluneh
 Zerihun Moges
 =======
 Zerihun Moges
+<<<<<<< HEAD
 Zerihun Moges
+=======
+>>>>>>> 9aba66e (Insert myname)
 Yisehak Bogale
 >>>>>>> 8eb5af2 (Insert myname)
