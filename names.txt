@@ -22,21 +22,15 @@ Rediet Demisse
 Rediet Ferew
 Samuel Abatneh
 Samuel Kifle
-<<<<<<< HEAD
-=======
 Sefineh Tesfa 
 Simon Mekonnen
 Sosna Worku
 Tewodros Alemu
->>>>>>> 7a94901568e83aef7378c015996e0f83d4f1c4f6
 Tigist Wondimneh
 Yared Tegegn
 Yisehak Bogale
-<<<<<<< HEAD
-=======
 Yonas Gebre
 Zalbowossn Gizaw
->>>>>>> 7a94901568e83aef7378c015996e0f83d4f1c4f6
 Zelalem Yetsedaw
 Zerihun Moges
 Zerabruck Muluneh
