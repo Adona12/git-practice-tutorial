@@ -1,10 +1,14 @@
 Abdulaziz Ali
 Abel Mekonen
 Adona Tesfaye
+<<<<<<< HEAD
 Joshua Tesfaye
 Rediet Demisse
 Yisehak Bogale
 Amha Kindu
+=======
+<<<<<<< HEAD
+>>>>>>> 4c565ce (update names.txt)
 Dagmawi Yesuf
 Bruk Tedla
 Duressa Jemal
@@ -13,7 +17,13 @@ Gadisa Amenu
 Henok Matheas
 Kaleab Kindu
 Mekdes Kebede
+<<<<<<< HEAD
 Nazrawi Demeke
+=======
+=======
+Aklile Yilma
+>>>>>>> 92da8dd (update names.txt)
+>>>>>>> 4c565ce (update names.txt)
 Rediet Demisse
 Tigist Wondimneh
 Yisehak Bogale
