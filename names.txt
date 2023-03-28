@@ -3,8 +3,8 @@ Abel Mekonen
 Abraham Shimekt
 Adona Tesfaye
 Amha Kindu
-Biruk Tassew
 Bereket Demisse
+Biruk Tassew
 Bruk Tedla
 Betelhem shewarega
 Dagmawi Yesuf
@@ -37,5 +37,6 @@ Yisehak Bogale
 Yonas Gebre
 Zalbowossn Gizaw
 Zelalem Yetsedaw
-Zerihun Moges
 Zerabruck Muluneh
+Zerihun Moges
+
